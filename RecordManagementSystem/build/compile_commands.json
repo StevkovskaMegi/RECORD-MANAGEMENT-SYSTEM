@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/Users/megistevkovska/Desktop/recordManagementSystem/RECORD-MANAGEMENT-SYSTEM/RecordManagementSystem/build",
+  "command": "/usr/bin/c++  -I/Users/megistevkovska/Desktop/recordManagementSystem/RECORD-MANAGEMENT-SYSTEM/RecordManagementSystem/src -std=gnu++17 -arch arm64 -o CMakeFiles/RecordManagementSystem.dir/src/main.cpp.o -c /Users/megistevkovska/Desktop/recordManagementSystem/RECORD-MANAGEMENT-SYSTEM/RecordManagementSystem/src/main.cpp",
+  "file": "/Users/megistevkovska/Desktop/recordManagementSystem/RECORD-MANAGEMENT-SYSTEM/RecordManagementSystem/src/main.cpp",
+  "output": "CMakeFiles/RecordManagementSystem.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/megistevkovska/Desktop/recordManagementSystem/RECORD-MANAGEMENT-SYSTEM/RecordManagementSystem/build",
+  "command": "/usr/bin/c++  -I/Users/megistevkovska/Desktop/recordManagementSystem/RECORD-MANAGEMENT-SYSTEM/RecordManagementSystem/src -std=gnu++17 -arch arm64 -o CMakeFiles/RecordManagementSystem.dir/src/Book.cpp.o -c /Users/megistevkovska/Desktop/recordManagementSystem/RECORD-MANAGEMENT-SYSTEM/RecordManagementSystem/src/Book.cpp",
+  "file": "/Users/megistevkovska/Desktop/recordManagementSystem/RECORD-MANAGEMENT-SYSTEM/RecordManagementSystem/src/Book.cpp",
+  "output": "CMakeFiles/RecordManagementSystem.dir/src/Book.cpp.o"
+},
+{
+  "directory": "/Users/megistevkovska/Desktop/recordManagementSystem/RECORD-MANAGEMENT-SYSTEM/RecordManagementSystem/build",
+  "command": "/usr/bin/c++  -I/Users/megistevkovska/Desktop/recordManagementSystem/RECORD-MANAGEMENT-SYSTEM/RecordManagementSystem/src -std=gnu++17 -arch arm64 -o CMakeFiles/RecordManagementSystem.dir/src/FileStorage.cpp.o -c /Users/megistevkovska/Desktop/recordManagementSystem/RECORD-MANAGEMENT-SYSTEM/RecordManagementSystem/src/FileStorage.cpp",
+  "file": "/Users/megistevkovska/Desktop/recordManagementSystem/RECORD-MANAGEMENT-SYSTEM/RecordManagementSystem/src/FileStorage.cpp",
+  "output": "CMakeFiles/RecordManagementSystem.dir/src/FileStorage.cpp.o"
+},
+{
+  "directory": "/Users/megistevkovska/Desktop/recordManagementSystem/RECORD-MANAGEMENT-SYSTEM/RecordManagementSystem/build",
+  "command": "/usr/bin/c++  -I/Users/megistevkovska/Desktop/recordManagementSystem/RECORD-MANAGEMENT-SYSTEM/RecordManagementSystem/src -std=gnu++17 -arch arm64 -o CMakeFiles/RecordManagementSystem.dir/src/RecordManager.cpp.o -c /Users/megistevkovska/Desktop/recordManagementSystem/RECORD-MANAGEMENT-SYSTEM/RecordManagementSystem/src/RecordManager.cpp",
+  "file": "/Users/megistevkovska/Desktop/recordManagementSystem/RECORD-MANAGEMENT-SYSTEM/RecordManagementSystem/src/RecordManager.cpp",
+  "output": "CMakeFiles/RecordManagementSystem.dir/src/RecordManager.cpp.o"
+},
+{
+  "directory": "/Users/megistevkovska/Desktop/recordManagementSystem/RECORD-MANAGEMENT-SYSTEM/RecordManagementSystem/build",
+  "command": "/usr/bin/c++  -I/Users/megistevkovska/Desktop/recordManagementSystem/RECORD-MANAGEMENT-SYSTEM/RecordManagementSystem/src -std=gnu++17 -arch arm64 -o CMakeFiles/RecordManagementSystem.dir/src/Menu.cpp.o -c /Users/megistevkovska/Desktop/recordManagementSystem/RECORD-MANAGEMENT-SYSTEM/RecordManagementSystem/src/Menu.cpp",
+  "file": "/Users/megistevkovska/Desktop/recordManagementSystem/RECORD-MANAGEMENT-SYSTEM/RecordManagementSystem/src/Menu.cpp",
+  "output": "CMakeFiles/RecordManagementSystem.dir/src/Menu.cpp.o"
+},
+{
+  "directory": "/Users/megistevkovska/Desktop/recordManagementSystem/RECORD-MANAGEMENT-SYSTEM/RecordManagementSystem/build",
+  "command": "/usr/bin/c++  -I/Users/megistevkovska/Desktop/recordManagementSystem/RECORD-MANAGEMENT-SYSTEM/RecordManagementSystem/src -std=gnu++17 -arch arm64 -o CMakeFiles/RecordManagementSystem.dir/src/Utils.cpp.o -c /Users/megistevkovska/Desktop/recordManagementSystem/RECORD-MANAGEMENT-SYSTEM/RecordManagementSystem/src/Utils.cpp",
+  "file": "/Users/megistevkovska/Desktop/recordManagementSystem/RECORD-MANAGEMENT-SYSTEM/RecordManagementSystem/src/Utils.cpp",
+  "output": "CMakeFiles/RecordManagementSystem.dir/src/Utils.cpp.o"
+}
+]

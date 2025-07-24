@@ -1,0 +1,3 @@
+/Users/megistevkovska/Desktop/recordManagementSystem/RECORD-MANAGEMENT-SYSTEM/RecordManagementSystem/build/CMakeFiles/RecordManagementSystem.dir
+/Users/megistevkovska/Desktop/recordManagementSystem/RECORD-MANAGEMENT-SYSTEM/RecordManagementSystem/build/CMakeFiles/edit_cache.dir
+/Users/megistevkovska/Desktop/recordManagementSystem/RECORD-MANAGEMENT-SYSTEM/RecordManagementSystem/build/CMakeFiles/rebuild_cache.dir

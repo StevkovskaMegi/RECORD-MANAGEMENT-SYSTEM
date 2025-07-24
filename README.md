@@ -114,10 +114,10 @@ The program will auto-create the folder if it doesn’t exist.
 ## Screenshots
 
  ### 1. Add Book
-![Add Book](scr/add_book.png)
+![Add Book](./scr/add_book.png)
 
 ### 2. Display All Books
-![Display All Books](scr/display_books.png)
+![Display All Books](./scr/display_books.png)
 
 ### 3. Search by ID
-![Search by ID](scr/search_book.png)
+![Search by ID](./scr/search_book.png)
